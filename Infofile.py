@@ -36,8 +36,3 @@ driver.quit()
 
 print("Scraping complete. Content saved to particle_physics_wikipedia.txt")
 
-#  test 
-
-#  hello mother this is a test
-
-# test 3
